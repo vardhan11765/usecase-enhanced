@@ -12,7 +12,7 @@ phases:
 
 artifacts:
   files:
-    - '**/*'            
+    - '**/index.html'            
   base-directory: '.'    
   discard-paths: yes    
 
